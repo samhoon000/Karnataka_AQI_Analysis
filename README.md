@@ -7,15 +7,13 @@ The goal is to transform raw government data into actionable insights using Pyth
 
 ## 📊 Dashboard Preview
 
-> *(Add your screenshots here)*
-
 ```
-![Dashboard](Screenshots/Screenshot%202026-01-18%201512.png)
+![Dashboard](Screenshots/Screenshot 2026-01-18%151245.png.png)
 ```
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Air pollution is a growing public health concern in India.
 This project aims to answer:
@@ -42,7 +40,7 @@ location_monitoring_station, pm2_5, date
 
 ---
 
-## 🧹 Data Cleaning & Preparation (Python)
+##  Data Cleaning & Preparation (Python)
 
 ### Step 1 – Feature Selection
 
