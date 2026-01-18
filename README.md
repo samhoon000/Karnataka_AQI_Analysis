@@ -125,7 +125,6 @@ karnataka_air_quality_cleaned.csv
 | ------------------------------- | -------------------------------------- |
 | Which cities are most polluted? | Bar chart (Avg RSPM by City)           |
 | How severe is the health risk?  | Stacked bar (Health Risk distribution) |
-| Worst pollution days            | Bar chart (Top 10 days by Max RSPM)    |
 | Seasonal impact                 | Column chart (Avg RSPM by Season)      |
 | Long-term trend                 | Area chart (Yearly Avg RSPM)           |
 | Traffic vs Industry             | Scatter plot (NO₂ vs SO₂, size = RSPM) |
