@@ -8,7 +8,7 @@ The goal is to transform raw government data into actionable insights using Pyth
 ## 📊 Dashboard Preview
 
 ```
-![Dashboard](Screenshots/Screenshot 2026-01-18%151245.png)
+![Dashboard](Screenshots/Screenshot%202026-01-18%20151245.png)
 ```
 
 ---
